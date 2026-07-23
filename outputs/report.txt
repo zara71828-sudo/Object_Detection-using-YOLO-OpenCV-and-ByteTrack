@@ -1,0 +1,10 @@
+AI OBJECT DETECTION & TRACKING REPORT
+=============================================
+
+Input Video  : sample2.mp4
+Output Video : outputs/tracked_sample2.mp4
+Frames Processed : 388
+FPS              : 30.00
+Model        : YOLOv8 Nano
+Tracker      : ByteTrack
+Status       : Completed Successfully
