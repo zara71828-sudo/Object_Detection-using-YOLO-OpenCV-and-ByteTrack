@@ -251,7 +251,7 @@ This project helped me gain practical experience in:
 
 ---
 
-## 👩Developer
+## Developer
 
 **Zara Khan**
 
