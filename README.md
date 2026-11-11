@@ -35,7 +35,7 @@ A real-time **Object Detection and Multi-Object Tracking** system developed usin
 ## Project Structure
 
 ```
-CodeAlpha_Object_Detection/
+Object_Detection using YOLO, OpenCV and ByteTrack/
 │
 ├── detect.py
 ├── requirements.txt
@@ -60,11 +60,11 @@ CodeAlpha_Object_Detection/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/zara71828-sudo/Object_Detection.git
+git clone https://github.com/zara71828-sudo/Object_Detection-using-YOLO-OpenCV-and-ByteTrack.git
 ```
 
 ```bash
-cd Object_Detection
+cd Object_Detection-using-YOLO-OpenCV-and-ByteTrack
 ```
 
 ---
