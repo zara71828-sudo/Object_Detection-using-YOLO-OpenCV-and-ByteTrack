@@ -2,7 +2,6 @@
 
 A real-time **Object Detection and Multi-Object Tracking** system developed using **YOLOv8**, **OpenCV**, and **ByteTrack**. The application detects multiple objects in videos, assigns unique tracking IDs, displays confidence scores, calculates FPS, counts detected objects, and saves the processed output video.
 
-This project was developed as part of the **CodeAlpha Artificial Intelligence Internship**.
 
 ---
 
@@ -61,11 +60,11 @@ CodeAlpha_Object_Detection/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/zara71828-sudo/CodeAlpha_Object_Detection.git
+git clone https://github.com/zara71828-sudo/Object_Detection.git
 ```
 
 ```bash
-cd CodeAlpha_Object_Detection
+cd Object_Detection
 ```
 
 ---
@@ -266,7 +265,6 @@ LinkedIn: www.linkedin.com/in/zara-khan-393848399
 
 ## Acknowledgements
 
-- CodeAlpha Internship Program
 - Ultralytics YOLOv8
 - OpenCV
 - ByteTrack
